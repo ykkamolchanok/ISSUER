@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" >
+<haed> 
+    <meta charset="='UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>รายละเอียดการส่งข้อเสนอโครงการ</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+<body>
+    <h3>รายละเอียดการส่งข้อเสนอโครงการ </h3>
+    <div> class="container">
+        <form> action="#">
+
+            <label for="Fname">คำนำหน้า</label>
+            <select>
+                <option value="นาย">นาย</option>
+                <option value="นาง">นาง</option>
+                <option value="นางสาว">นางสาว</option>
+                <option value="ดร.">ดร.</option>
+            </select>
+
+            <label for="Fname">ชื่อ</label>
+            <!-- <input type="text" name="Fname" placeholder="Your name..."> -->
+            <label for="Lname">นามสกุล</label>
+            <label for="Lname">สถานะ</label>
+            <label for="Lname">คณะ</label>
+            <label for="Lname">ชื่อโครงการ</label>
+            
+            <input type="submit" value="Submit">
+
+        </form>
+    </div>
+</body>
+</html>
