@@ -49,6 +49,16 @@
             <h6 class="text-black"> ประวัติอาจารย์ที่ปรึกษา พร้อมหลักฐานการอบรมจริยธรรมการวิจัยในมนุษย์(ถ้ามี)</h6>
         </div>
     </h4>
+    <h4 class="p-4 my-4 btn-primary btn-lg" style="background-color:rgb(0, 213, 255);"> ขั้นตอนที่ 10
+        <div style="text-align:center;width:100%;">
+            <h6 class="text-black"> ประวัติอาจารย์ที่ปรึกษา พร้อมหลักฐานการอบรมจริยธรรมการวิจัยในมนุษย์(ถ้ามี)</h6>
+        </div>
+    </h4>
+    <h4 class="p-4 my-4 btn-primary btn-lg" style="background-color:rgb(0, 213, 255);"> ขั้นตอนที่ 11
+        <div style="text-align:center;width:100%;">
+            <h6 class="text-black"> ประวัติอาจารย์ที่ปรึกษา พร้อมหลักฐานการอบรมจริยธรรมการวิจัยในมนุษย์(ถ้ามี)</h6>
+        </div>
+    </h4>
 </div>
 <!-- End Content -->
 @endsection
