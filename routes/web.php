@@ -26,8 +26,15 @@ Route::get('/sample', function () {
     return view('pages.sample');
 });
 
-Route::get('/customer', function () {
-    return view('pages.customer');
+// Route::get('/customer', function () {
+//     return view('pages.customer');
+// });
+
+Route::get('/studentform', function () {
+    return view('pages.studentform');
+});
+Route::get('/teacherform', function () {
+    return view('pages.teacherform');
 });
 
 
